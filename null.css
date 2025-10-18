@@ -14,5 +14,6 @@ pre {
 }
 
 a:any-link {
-    text-decoration: 1px solid underline #434343;
+    color: #131313;
+    text-decoration: 1px solid underline #aaaaaa;
 }
