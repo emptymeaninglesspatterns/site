@@ -1,0 +1,21 @@
+* {
+    all: unset;
+}
+
+body {
+    min-width: 720px;
+    margin: 3em auto;
+    font-family: 'Iosevka Web';
+    background: #eeeeee;
+    color: #131313;
+}
+
+pre {
+    background: #ffffff;
+    border: 1px solid #999999;
+    border-radius: 4px;
+}
+
+a {
+    text-decoration: 1px solid underline #434343;
+}
