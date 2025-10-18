@@ -1,10 +1,7 @@
-* {
-    all: unset;
-}
-
 body {
     min-width: 720px;
     margin: 3em auto;
+    line-height: 1.5;
     font-family: 'Iosevka Web';
     background: #eeeeee;
     color: #131313;
